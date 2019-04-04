@@ -1,8 +1,13 @@
-<?php
-
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
+ <head>
+        <meta charset="UTF-8">  
+        <?php include('./lib/constantes.php'); ?>        
+        <title><?=sitename;?></title>        
+        <?php include('./frame.php');?>
+        
+    </head>
+<BODY>
+     <STYLE type="text/css">
+  H1 { text-align: center}
+ </STYLE>
+ <H1> “UNDER CONSTRUCTION”. </H1>
+</BODY> 
